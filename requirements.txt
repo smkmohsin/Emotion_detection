@@ -1,4 +1,4 @@
-streamlit~=1.7.0
+streamlit
 opencv-python
 streamlit_webrtc
-deepface~=0.0.74
+deepface
