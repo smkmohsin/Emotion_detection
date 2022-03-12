@@ -1,0 +1,5 @@
+streamlit~=1.7.0
+opencv-contrib-python-headless
+tensorflow-cpu
+streamlit_webrtc
+deepface~=0.0.74
