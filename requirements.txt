@@ -2,3 +2,4 @@ streamlit~=1.7.0
 opencv-python
 streamlit_webrtc
 deepface
+libgl1-mesa-glx
